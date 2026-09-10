@@ -57,7 +57,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. Clonar el repositorio: 
 
-git clone https://github.com/TU-USUARIO/Tu-Repositorio.git
+git clone https://github.com/stanleygarcia22-del/Tu-Repositorio.git
 cd Tu-Repositorio
 
 2. Instalar dependencias de PHP: composer install
